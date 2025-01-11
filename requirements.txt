@@ -1,0 +1,6 @@
+transformers
+torch
+fastapi
+pydantic
+numpy
+onnxruntime
